@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6162QIR)
+
+
+
 <!--
 **oldmartijntje/oldmartijntje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
